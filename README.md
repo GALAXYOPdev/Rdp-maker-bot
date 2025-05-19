@@ -14,8 +14,8 @@ A Discord bot that creates Dockerized RDP instances for users with slash command
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/GALAXYOPdev/Rdp-maker-bot.git
+cd Rdp-maker-bot
 
 2. Replace your Discord bot token and server IP in bot.py.
 
